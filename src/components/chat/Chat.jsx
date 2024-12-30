@@ -28,7 +28,35 @@ const Chat = () => {
           <img src="./info.png" alt="" />
         </div>
       </div>
-      <div className="center"></div>
+      <div className="center">
+        <div className="message own">
+          <div className="texts">
+            <img src="https://www.themarysue.com/wp-content/uploads/2022/03/chopper-one-piece-straw-hats.jpg" alt="" />
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi reiciendis quam quae excepturi architecto optio amet nesciunt</p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+        <div className="message">
+          <img src="./avatar.png" alt="" />
+          <div className="texts">
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi reiciendis quam quae excepturi architecto optio amet nesciunt</p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+        <div className="message own">
+          <div className="texts">
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi reiciendis quam quae excepturi architecto optio amet nesciunt</p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+        <div className="message">
+          <img src="./avatar.png" alt="" />
+          <div className="texts">
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi reiciendis quam quae excepturi architecto optio amet nesciunt</p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+      </div>
       <div className="bottom">
         <div className="icons">
           <img src="./img.png" alt="" />
